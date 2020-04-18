@@ -1,3 +1,4 @@
 # Homeworks_Datacamp
-Homework_Datacamp1 \n
+Homework_Datacamp1
+
 Maneenoot Jaichaliew
